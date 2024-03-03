@@ -6,6 +6,9 @@ Thanks for visiting! Please check out my work [here](https://github.com/raquelni
 
 📧 [Email](mailto:raquel.n.desantis@gmail.com) ◦ 🔗 [LinkedIn](https://linkedin.com/in/raquelnicole415)
 
+<hr>
+
+<a id="aboutme"></a>
 # about me
 
 🚀 Passionate V.P. Client Solutions Architect with a proven track record in technical writing, eager to elevate it to the forefront of my career journey.
@@ -18,6 +21,7 @@ Thanks for visiting! Please check out my work [here](https://github.com/raquelni
 
 🌟 Let's connect, innovate, and inspire together on this exhilarating journey towards excellence in technical communication!
 
+<a id="skills"></a>
 # skills
 
 #### technical
@@ -49,13 +53,17 @@ Thanks for visiting! Please check out my work [here](https://github.com/raquelni
 * Innovative
 * Analytical thinker
 
-# passionate about 
+<a id="careergoals"></a>
+# career goals & interests
 * anything tech
+* customer experience
+* customer insights
 * web design
 * web languages
 * technical writing
 * knowledge base management
 
+<a id="hobbies"></a>
 # hobbies
 * anything computer-related
 * video games
